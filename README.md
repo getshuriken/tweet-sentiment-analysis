@@ -1,4 +1,4 @@
-tweet-sentimet-analysis
+Fork this repo to accept this Shuriken challenge.
 =======================
 
 A Shuriken for learning Tweeter API and Sentiment Analysis using AlchemyAPI
